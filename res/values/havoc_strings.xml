@@ -18,4 +18,6 @@
     <!-- Swipe to delete -->
     <string name="swipe_right_deletes_conversation_text">Swipe right deletes conversation</string>
 
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
 </resources>
